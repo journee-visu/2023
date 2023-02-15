@@ -1,3 +1,3 @@
-# https://journee-visu.github.io/2022/
+# https://journee-visu.github.io/2023/
 
-Journée Visu 2022 - La journée annuelle du GT Visualisation du GDR IGRV
+Journée Visu 2023 - La journée annuelle du GT Visualisation du GDR IGRV
