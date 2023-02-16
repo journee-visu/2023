@@ -21,11 +21,11 @@ body {
 .navMenu a {
     color: #000000;
     text-decoration: none;
-    font-size: 1.2em;
+    font-size: 1em;
     text-transform: uppercase;
     font-weight: 500;
     display: inline-block;
-    width: 150px;
+    width: 15%;
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
 }
