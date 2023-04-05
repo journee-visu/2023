@@ -1,4 +1,3 @@
-%% CLS file for Journée Visu, derived from IEEEtrans.cls
 %%
 %% IEEEtran.cls 2007/03/05 version V1.7a
 %%
@@ -4684,7 +4683,7 @@ Use \@IEEEbackslash #2 instead.}}
 \def\specialpapernotice{\@IEEElegacywarn{specialpapernotice}{IEEEspecialpapernotice}\IEEEspecialpapernotice}
 
 \newcommand{\TitreVisu}[2]{\title{#1\\\vspace{0.5ex}\normalsize{#2}}}
-\newcommand{\ShortBib}[1]{\markboth{Visu 2020}{#1}}
+\newcommand{\ShortBib}[1]{\markboth{Visu 2023}{#1}}
 
 % provide for legacy environments
 \def\biography{\@IEEElegacywarn{biography}{IEEEbiography}\IEEEbiography}
@@ -4718,3 +4717,4 @@ Use \@IEEEbackslash #2 instead.}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%% End of IEEEtran.cls  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % That's all folks!
+
