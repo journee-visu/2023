@@ -1656,7 +1656,7 @@
 \@IEEEcompsocconfonly{\def\figurename{Figure}\def\tablename{Table}}
 \def\partname{Part}
 \def\appendixname{Appendix}
-\def\abstractname{English Abstract}
+\def\abstractname{Abstract}
 % IEEE specific names
 \def\IEEEkeywordsname{Index Terms}
 \def\IEEEproofname{Proof}
